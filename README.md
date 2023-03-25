@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Sword352
-- 👀 I’m interested in programming in general, but like to make games
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate with talented skilled peoples for my games
-- 📫 How to reach me : Sword352#2198 on Discord
+funny guy
